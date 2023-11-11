@@ -13,5 +13,5 @@ Create a new GitHub repository, open a terminal and execute the following comman
 - git commit -m "Updated README.md"
 - git checkout main 
 - git merge development
-- git remote add origin <link-to-your-github-repository>
+- git remote add origin `<link-to-your-github-repository>`
 - git push --all -u origin 
